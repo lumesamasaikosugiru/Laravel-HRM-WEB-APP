@@ -2,6 +2,7 @@
 
 namespace App\Filament\Resources\Positions\Schemas;
 
+use Filament\Forms\Components\TextInput;
 use Filament\Schemas\Schema;
 
 class PositionForm
@@ -10,7 +11,14 @@ class PositionForm
     {
         return $schema
             ->components([
-                //
+                TextInput::make('name')
+                    ->required(),
+                TextInput::make('level')
+                    ->required()
+                    ->numeric(),
+                TextInput::make('description')
+                ,
+
             ]);
     }
 }
