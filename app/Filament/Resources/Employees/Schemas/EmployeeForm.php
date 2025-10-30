@@ -15,13 +15,13 @@ class EmployeeForm
             ->components([
                 TextInput::make('user_id')
                     ->numeric()
-                    ->default(null),
+                    ->required(),
                 TextInput::make('department_id')
                     ->numeric()
-                    ->default(null),
+                    ->required(),
                 TextInput::make('position_id')
                     ->numeric()
-                    ->default(null),
+                    ->required(),
                 TextInput::make('full_name')
                     ->required(),
                 TextInput::make('email')
@@ -34,7 +34,6 @@ class EmployeeForm
                 DatePicker::make('hire_date'),
                 Select::make('status')
                     ->options(['active' => 'Active', 'inactive' => 'Inactive'])
-                    ->default('active')
                     ->required(),
                 TextInput::make('photo_path')
                     ->default(null),
