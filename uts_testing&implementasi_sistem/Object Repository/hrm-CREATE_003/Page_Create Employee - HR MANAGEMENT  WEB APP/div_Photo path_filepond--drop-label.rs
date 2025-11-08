@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Photo path_filepond--drop-label</name>
+   <tag></tag>
+   <elementGuidId>46eb4fe7-1381-425f-8ae8-93f8952bdc14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form.photo_path']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filepond--drop-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Photo path&quot;i >> div >> internal:has-text=&quot;Drag &amp; Drop your files or Browse&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e3cb73f-8b3c-4c68-a2ba-e0c925b951dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filepond--drop-label</value>
+      <webElementGuid>678b089f-a262-4bf5-aba1-dc00389a4f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag &amp; Drop your files or  Browse </value>
+      <webElementGuid>fdcfa03a-9014-477a-965b-1a2025bc285a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form.photo_path&quot;)/div[@class=&quot;fi-fo-file-upload-input-ctn&quot;]/div[@class=&quot;filepond--root filepond--hopper&quot;]/div[@class=&quot;filepond--drop-label&quot;]</value>
+      <webElementGuid>753b497b-b955-49eb-b75a-95143270bdd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form.photo_path']/div/div/div</value>
+      <webElementGuid>0b5468fc-ae54-47d4-ba04-c40d00a02c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo path'])[1]/following::div[5]</value>
+      <webElementGuid>66a69c86-2371-4c1b-b842-bce430dfd2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::div[14]</value>
+      <webElementGuid>9bc19350-6e3a-49c8-bc23-bbfafec81bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>30ae710c-a565-4534-9491-28fc34fcf4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag &amp; Drop your files or  Browse ' or . = 'Drag &amp; Drop your files or  Browse ')]</value>
+      <webElementGuid>0763a00d-c5af-480d-8d37-9128ede163af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

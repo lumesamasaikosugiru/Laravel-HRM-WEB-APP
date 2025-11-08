@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Photo path_filepond--drop-label</name>
+   <tag></tag>
+   <elementGuidId>c63abc7f-f3b4-4bc4-8605-a726582ed79a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountedActionSchema0.photo_path']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filepond--drop-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Photo path&quot;i >> div >> internal:has-text=&quot;Drag &amp; Drop your files or Browse&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a4f2a6c-c1c5-4f94-bda7-6f353b1f452b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filepond--drop-label</value>
+      <webElementGuid>40faf167-0fb0-4d95-9618-d1d0920bf650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag &amp; Drop your files or  Browse </value>
+      <webElementGuid>5d2046d8-7421-4040-a4b6-7db48fa4e0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountedActionSchema0.photo_path&quot;)/div[@class=&quot;fi-fo-file-upload-input-ctn&quot;]/div[@class=&quot;filepond--root filepond--hopper&quot;]/div[@class=&quot;filepond--drop-label&quot;]</value>
+      <webElementGuid>037ec1a9-fa81-4707-8c14-a79b6fb1683c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountedActionSchema0.photo_path']/div/div/div</value>
+      <webElementGuid>6ccd65c2-35f7-4ee6-9001-d0763db68c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo path'])[1]/following::div[5]</value>
+      <webElementGuid>64c38a10-3a01-471f-a8fb-f449daa78e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[2]/following::div[14]</value>
+      <webElementGuid>926e3cca-6d22-4a4a-b8de-7854a54556cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>8d5bb270-c585-4330-9a2d-acf39647a300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag &amp; Drop your files or  Browse ' or . = 'Drag &amp; Drop your files or  Browse ')]</value>
+      <webElementGuid>04b01ac1-cef9-435d-b666-06e11e5e03f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

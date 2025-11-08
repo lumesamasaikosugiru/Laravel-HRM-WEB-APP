@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_active_fi-icon fi-size-md</name>
+   <tag></tag>
+   <elementGuidId>848fb35e-01c7-4139-94d5-38c115e0f77f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='active'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Actions View Edit Delete&quot;i] >> internal:label=&quot;Actions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e17346a8-174f-443f-8496-40f1f05e32e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-icon fi-size-md</value>
+      <webElementGuid>857e01a9-6add-4232-8204-b8cec770d342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2015dc2f-155f-455f-9a63-d286a1665a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>80461d3c-95ce-4193-8776-dd27b052f29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>f7542de5-08fb-4f18-833a-df7b83ca9217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fa2c4cec-7bc8-4fa3-a8ae-02c81e88a178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>79a2dc5d-0719-4435-a8f6-52bdce42bfc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi dark&quot;]/body[@class=&quot;fi-body fi-panel-admin fi-body-has-navigation fi-body-has-topbar&quot;]/div[@class=&quot;fi-layout&quot;]/div[@class=&quot;fi-main-ctn&quot;]/main[@class=&quot;fi-main fi-width-7xl&quot;]/div[@class=&quot;fi-page fi-resource-list-records-page fi-resource-employees&quot;]/div[@class=&quot;fi-page-header-main-ctn&quot;]/div[@class=&quot;fi-page-main&quot;]/div[@class=&quot;fi-page-content&quot;]/div[@class=&quot;fi-sc  fi-sc-has-gap fi-grid&quot;]/div[@class=&quot;fi-grid-col&quot;]/div[@class=&quot;fi-sc-component&quot;]/div[@class=&quot;fi-ta&quot;]/div[@class=&quot;fi-ta-ctn fi-ta-ctn-with-header&quot;]/div[@class=&quot;fi-ta-content-ctn&quot;]/table[@class=&quot;fi-ta-table&quot;]/tbody[1]/tr[@class=&quot;fi-ta-row fi-clickable&quot;]/td[@class=&quot;fi-ta-cell&quot;]/div[@class=&quot;fi-ta-actions&quot;]/div[@class=&quot;fi-dropdown&quot;]/div[@class=&quot;fi-dropdown-trigger&quot;]/button[@class=&quot;fi-color fi-color-primary fi-text-color-600 hover:fi-text-color-500 dark:fi-text-color-400 dark:hover:fi-text-color-300 fi-icon-btn fi-size-md fi-ac-icon-btn-group&quot;]/svg[@class=&quot;fi-icon fi-size-md&quot;]</value>
+      <webElementGuid>c8c08d1d-1086-4796-9adc-10839c974954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='active'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>077289c6-0faf-4ad2-b158-edf1a16b4d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John Doe'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2371f56b-d381-42ed-bb8d-b6937e50e983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>6a1825ad-221c-4ec7-a596-7042fdf60007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>04b427ab-3ed3-4c64-a95c-c6aa13d4eac2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
